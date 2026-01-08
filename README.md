@@ -1,8 +1,10 @@
-Python Practice Repository
+**Python Practice Repository**
 
 This repository contains structured Python code, scripts, and notebooks created for continuous practice and skill enhancement. It covers core Python concepts, data handling, problem-solving, and machine learning fundamentals.
 
-Repository Structure
+
+**Repository Structure**
+
 python-practice/
 │
 ├── data/           # Datasets (raw / processed)
@@ -12,7 +14,7 @@ python-practice/
 ├── requirements.txt
 └── README.md
 
-Topics Covered
+**Topics Covered**
 
 Core Python (data types, functions, OOP)
 
