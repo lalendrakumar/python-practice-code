@@ -6,12 +6,19 @@ This repository contains structured Python code, scripts, and notebooks created 
 **Repository Structure**
 
 python-practice/
+
 │
-├── data/           # Datasets (raw / processed)
-├── notebooks/      # Jupyter notebooks for experiments
-├── scripts/        # Python scripts
-├── tests/          # Unit tests
-├── requirements.txt
+├
+── data/           # Datasets (raw / processed)
+
+── notebooks/      # Jupyter notebooks for experiments
+
+── scripts/        # Python scripts
+
+── tests/          # Unit tests
+
+── requirements.txt
+
 └── README.md
 
 **Topics Covered**
